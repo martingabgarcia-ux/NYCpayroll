@@ -1,0 +1,9 @@
+{
+	"name": "adfmarting",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e55a8193-ca6e-4a1e-aad3-bfcbd3b303bd",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
